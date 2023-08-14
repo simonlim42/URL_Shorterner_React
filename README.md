@@ -27,14 +27,6 @@ To run the URL Shortener service locally, follow these steps:
 2. Launch the client: `cd client && npm start`
 3. Access the URL Shortener interface by opening your web browser and navigating to `http://localhost:3000`.
 
-## API Documentation
-
-The URL Shortener API allows you to programmatically create and manage short URLs. Here are some of the available endpoints:
-
-1. `POST /api/shorten`: Create a short URL by providing the original URL in the request body.
-2. `GET /api/:shortCode`: Retrieve information about a specific short URL.
-
-For detailed API documentation and examples, refer to the [API Documentation](api-docs.md).
 
 ## Contributing
 
